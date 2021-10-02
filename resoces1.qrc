@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>F:/无定义/v2-f20e1d2542924e849921acf45e270cab_1440w.jpg</file>
+        <file>F:/无定义/v2-40e8166e07166af477da26cd287f1c93_1440w.jpg</file>
+        <file>F:/无定义/icon/Designbolts-Seo-Website-Optimization.ico</file>
+        <file>F:/无定义/icon/Designcontest-Outline-Magnifier.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Animals-Dog-House.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Arrows-Back.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Arrows-Down.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Arrows-Down-2.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Astrology-Year-Of-Snake.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Baby-Crib.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Business-Department.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Business-Leave.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Business-Org-Unit.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Cinema-Add-Ticket.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Cinema-History.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-City-Hospital.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-City-Modern-Art.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Cultures-Torah.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Data-Mind-Map.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Data-Radar-Plot.ico</file>
+        <file>F:/无定义/icon/Icons8-Ios7-Ecommerce-Empty-Box.ico</file>
+        <file>F:/无定义/icon/Iconsmind-Outline-File.ico</file>
+        <file>F:/无定义/icon/Iconsmind-Outline-Support.ico</file>
+        <file>F:/无定义/icon/Paomedia-Small-N-Flat-Terminal.ico</file>
+        <file>F:/无定义/icon/Praveen-Minimal-Outline-View.ico</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
