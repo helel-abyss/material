@@ -1,0 +1,56 @@
+newmtl AtomMaterial_1
+Ka 0.3 0.3 0.3
+Kd 0 1 0
+Ks 1 1 1
+Ns 1000
+
+
+newmtl AtomMaterial_2
+Ka 0.3 0.3 0.3
+Kd 0 1 0
+Ks 1 1 1
+Ns 1000
+
+
+newmtl AtomMaterial_3
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+
+
+newmtl AtomMaterial_4
+Ka 0.3 0.3 0.3
+Kd 0 1 0
+Ks 1 1 1
+Ns 1000
+
+
+newmtl AtomMaterial_5
+Ka 0.3 0.3 0.3
+Kd 0 1 0
+Ks 1 1 1
+Ns 1000
+
+
+newmtl BondMaterial_1
+Ka 0.3 0.3 0.3
+Kd 1 0.627451 0
+Ks 1 1 1
+Ns 1000
+
+
+newmtl BondMaterial_2
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+
+
+newmtl BondMaterial_3
+Ka 0.3 0.3 0.3
+Kd 1 0.627451 0
+Ks 1 1 1
+Ns 1000
+
+

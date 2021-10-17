@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>About_Us.qml</file>
+        <file>Renderand_display_3d_objects.js</file>
+        <file>three.js</file>
+    </qresource>
+</RCC>
